@@ -1,0 +1,14 @@
+C:\Luxoft\Learnings\SyncFolders\bin\Debug\net7.0\SyncFolders.exe
+C:\Luxoft\Learnings\SyncFolders\bin\Debug\net7.0\SyncFolders.deps.json
+C:\Luxoft\Learnings\SyncFolders\bin\Debug\net7.0\SyncFolders.runtimeconfig.json
+C:\Luxoft\Learnings\SyncFolders\bin\Debug\net7.0\SyncFolders.dll
+C:\Luxoft\Learnings\SyncFolders\bin\Debug\net7.0\SyncFolders.pdb
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\SyncFolders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\SyncFolders.AssemblyInfoInputs.cache
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\SyncFolders.AssemblyInfo.cs
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\SyncFolders.csproj.CoreCompileInputs.cache
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\SyncFolders.dll
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\refint\SyncFolders.dll
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\SyncFolders.pdb
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\SyncFolders.genruntimeconfig.cache
+C:\Luxoft\Learnings\SyncFolders\obj\Debug\net7.0\ref\SyncFolders.dll
